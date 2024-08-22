@@ -1,0 +1,27 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.8.2
+2 info using node@v22.2.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/tieirra/Desktop/State/.vscode/state2/.npmrc
+5 silly config load:file:/Users/tieirra/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm uninstall cra-template
+8 verbose argv "uninstall" "cra-template"
+9 verbose logfile logs-max:10 dir:/Users/tieirra/Desktop/State/.vscode/C:Develnodejsnpm-cache/_logs/2024-08-22T03_16_50_560Z-
+10 verbose logfile /Users/tieirra/Desktop/State/.vscode/C:Develnodejsnpm-cache/_logs/2024-08-22T03_16_50_560Z-debug-0.log
+11 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly reify mark retired [
+14 silly reify   '/Users/tieirra/Desktop/State/.vscode/state2/node_modules/cra-template'
+14 silly reify ]
+15 silly reify moves {
+15 silly reify   '/Users/tieirra/Desktop/State/.vscode/state2/node_modules/cra-template': '/Users/tieirra/Desktop/State/.vscode/state2/node_modules/.cra-template-VLuCg9W0'
+15 silly reify }
+16 silly REMOVE node_modules/cra-template
+17 verbose cwd /Users/tieirra/Desktop/State/.vscode/state2
+18 verbose os Darwin 21.2.0
+19 verbose node v22.2.0
+20 verbose npm  v10.8.2
+21 verbose exit 0
+22 info ok
